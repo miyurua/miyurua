@@ -1,8 +1,8 @@
 <h1 align='center'>Hi I'm Miuru 👋</h1>
 <p>Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in frontend development, full-stack projects, and innovative solutions.</p>
 
-![GitHub followers](https://img.shields.io/github/followers/miuru?style=social)
-![GitHub stars](https://img.shields.io/github/stars/miuru?style=social)
+![GitHub followers](https://img.shields.io/github/followers/miyurua?style=social)
+![GitHub stars](https://img.shields.io/github/stars/miyurua?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=miyurua&color=brightgreen)
 
 
