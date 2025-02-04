@@ -17,7 +17,7 @@ I'm a recent graduate with a BEng in Software Engineering from the University of
 
 <h2>Skills (Languages & Tools)</h2>
 
-![My Skills](https://skillicons.dev/icons?i=react,springboot,next,typescript,javascript,tailwindcss,redux,html,css,scss,nodejs,express,mongodb,mysql,graphql,python,java,swift,aws,docker,git,github,pytorch,vscode,postman,firebase,flask,kali,linux,gatsby,wordpress)
+![My Skills](https://skillicons.dev/icons?i=react,spring-boot,next,typescript,javascript,tailwindcss,redux,html,css,scss,nodejs,express,mongodb,mysql,graphql,python,java,swift,aws,docker,git,github,pytorch,vscode,postman,firebase,flask,kali,linux,gatsby,wordpress)
 
 <h3>Natural Language Processing</h3>
 
